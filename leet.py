@@ -11,4 +11,4 @@ def containsDuplicate( nums: list[int]) -> bool:
         
 nums = [1,2,3,1]
 x = containsDuplicate(nums)
-print(x)ss
+print(x)
