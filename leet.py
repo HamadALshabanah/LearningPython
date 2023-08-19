@@ -13,3 +13,6 @@ nums = [1,2,3,1]
 x = containsDuplicate(nums)
 print(x)
 print('hELLO')
+
+def trying():
+    pass
